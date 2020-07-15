@@ -1,0 +1,8 @@
+﻿  main.cpp
+  manager.cpp
+  model.cpp
+  openGl.cpp
+C:\Users\kadok\Desktop\dog\Project1\new最新\openGl.cpp(193,29): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  player.cpp
+  textureGL.cpp
+LINK : fatal error LNK1104: ファイル 'd3dx9.lib' を開くことができません。
