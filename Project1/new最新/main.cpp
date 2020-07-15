@@ -13,6 +13,7 @@
 const char* CLASS_NAME = "AppClass";
 const char* WINDOW_NAME = "AT13E101_09_ã‡‡Vç_ó∫";
 //otty tuika
+// hello
 HWND g_Window;
 HDC		m_hDC;
 
