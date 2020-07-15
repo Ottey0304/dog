@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/OtteyScene.unity
+=======
+- path: Assets/Scenes/TestKousuke.unity
+>>>>>>> 088c411871a1d94d631988ddb019096e3bcd8b23
   isLoaded: 1
   isActive: 1
   isSubScene: 0
